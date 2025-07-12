@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "0.0.0.0 - DOMAIN",
+        "blobprodcus350.blob.core.windows.net"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cn.download.nvidia.com",
+        "dhs752jdkpq3ns.catlinks.co.uk",
+        "ipv4.egdownload.fastly-edge.com",
+        "pphimalayanrt.com",
+        "service-aggregation-layer-subs.juno.ea.com",
+        "ssl.ptlogin2.qq.com",
+        "tdck.fun",
+        "tp.m-team.cc",
+        "turnjs.629957.xyz",
+        "webseed.nhentai.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "Riot",
+        "valorant"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.1.99.100/32",
+        "115.238.185.234/32",
+        "23.49.104.184/32"
+      ]
+    }
+  ],
+  "version": 2
+}

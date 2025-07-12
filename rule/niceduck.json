@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cf.niceduck.lol",
+        "dpxcf.niceduck.lol",
+        "e.niceduck.me",
+        "jcf.niceduck.lol"
+      ]
+    }
+  ],
+  "version": 2
+}

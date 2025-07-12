@@ -1,0 +1,62 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bcbolt446c5271-a.akamaihd.net",
+        "edge.api.brightcove.com",
+        "tvbtracking.azurewebsites.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "thetv-ts",
+        "thetv-v"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "4gtv.hg16888.vip",
+        "4gtvfree-cds.cdn.hinet.net",
+        "567852.xyz",
+        "assets.livednow.com",
+        "beesport.livednow.com",
+        "bigbigchannel.com.hk",
+        "bigbigshop.com",
+        "btjson.us.kg",
+        "cdn.hinet.net",
+        "content.jwplatform.com",
+        "edgeware.tvb.com",
+        "encoretvb.com",
+        "fm1077.serv00.net",
+        "freetv.fun",
+        "livednow.us.kg",
+        "mytvsuper.btjson.us.kg",
+        "mytvsuper.com",
+        "mytvsuper.us.kg",
+        "mytvsuper.xyz",
+        "mytvsuperlimited.hb.omtrdc.net",
+        "mytvsuperlimited.sc.omtrdc.net",
+        "newtvsuper.com",
+        "serv00.net",
+        "sxg.btjson.us.kg",
+        "thetvapp.to",
+        "tvb.com",
+        "tvb.com.au",
+        "tvbanywhere.com",
+        "tvbanywhere.com.sg",
+        "tvbc.com.cn",
+        "tvbeventpower.com.hk",
+        "tvbusa.com",
+        "tvbweekly.com",
+        "tvmedia.net.au",
+        "ubtvfans.com",
+        "uy.ts.ulivetv.net",
+        "videos-f.jwpsrv.com",
+        "youboranqs01.com",
+        "z02.ubtvfans.com",
+        "z1.ubtvfans.com"
+      ]
+    }
+  ],
+  "version": 2
+}

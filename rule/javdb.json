@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "javdb.com",
+        "jdbstatic.com"
+      ]
+    }
+  ],
+  "version": 2
+}
