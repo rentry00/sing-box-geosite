@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "0.0.0.0 - DOMAIN",
+        "bleclick.net"
+      ]
+    }
+  ],
+  "version": 2
+}

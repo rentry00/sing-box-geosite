@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "1111cuct.niceduck.lol",
+        "2025link.site",
+        "204cloud.com",
+        "4d4y.com",
+        "bx.mooguu.top",
+        "by.mooguu.org",
+        "cdn.jsdelivr.net",
+        "dpx1.niceduck.lol",
+        "dpx1v6.niceduck.lol",
+        "dpx2.niceduck.lol",
+        "emby1.69yun69.com",
+        "fengshows.cn",
+        "hk.apopcloud.live",
+        "hxd.as174.com",
+        "jellyfin.asia",
+        "jms1.niceduck.lol",
+        "jms1v6.niceduck.lol",
+        "jms2.niceduck.lol",
+        "kelee.one",
+        "mm.herefor.top",
+        "mm.mooguu.xyz",
+        "naizi.vip",
+        "nanflix.net",
+        "outong-valve.com",
+        "proxy.huazi.me",
+        "st.mooguu.net",
+        "stats.qiumibao.com",
+        "tiangou.xyz",
+        "vo0.site",
+        "yeahfast.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.197.185.84/32",
+        "107.181.226.66/32",
+        "148.135.94.8/32",
+        "154.29.159.230/32",
+        "154.40.33.88/32",
+        "37.123.192.219/32",
+        "43.139.184.65:80"
+      ]
+    }
+  ],
+  "version": 2
+}

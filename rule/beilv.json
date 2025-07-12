@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "aktv-stream",
+        "aktv_stream",
+        "beesport",
+        "ck.cc",
+        "gczx4.xyz",
+        "gczx5.xyz",
+        "gczx6.xyz",
+        "hka-emby",
+        "madouqu",
+        "missav",
+        "stream-link",
+        "xxav"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "7mmtv.sx",
+        "adultdvdempire.com",
+        "adultempire.com",
+        "aktv.space",
+        "btc620.com",
+        "dpdns.org",
+        "javday.homes",
+        "litvpc-hichannel.cdn.hinet.net",
+        "madou.club",
+        "mushroomtrack.com",
+        "sg.886318.xyz",
+        "stream-link.online",
+        "stream-link.org",
+        "surrit.com",
+        "tanhuatv.site",
+        "tv.000115.xyz",
+        "xvideos-cdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}
