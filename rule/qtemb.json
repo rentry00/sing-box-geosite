@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudfisher.cc",
+        "embymv.link",
+        "tv.ash.yt",
+        "vban.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}

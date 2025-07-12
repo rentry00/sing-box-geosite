@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bbs-api.mihoyo.com",
+        "bbs-api.miyoushe.com"
+      ]
+    }
+  ],
+  "version": 2
+}

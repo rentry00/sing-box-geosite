@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "gradle",
+        "jetbrains",
+        "mathworks",
+        "notion",
+        "wodetaylor"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bkcloud.icu",
+        "msftconnecttest.com",
+        "sm.ms"
+      ]
+    }
+  ],
+  "version": 2
+}

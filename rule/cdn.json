@@ -1,0 +1,85 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cdn-msp.18comic.org",
+        "cdn-msp.18comic.vip",
+        "cdn-msp.jmcomic-zzz.one",
+        "cdn-msp.jmcomic.me",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "-assets.worldsex.com",
+        "-cdn.eporner.com",
+        "-files.gitbook.io",
+        "-images.disco-api.com",
+        "-res.cloudinary.com",
+        "-thumbs.pornhost.com",
+        "-thumbs.worldsex.com",
+        "99avcdn",
+        "cdn.adultempire.com",
+        "dsn.algolia.net",
+        "fonts.hanime1",
+        "vdownload.hanime1",
+        "vod-adaptive.akamaized.net",
+        "web-assets.zendesk"
+      ]
+    },
+    {
+      "domain_regex": [
+        "^[\w.-]*?\.fsvod[\w.-]\.com$",
+        "^[\w.-]*?\.img\.[\w.-]*?\.sendibm[\w.-]\.com$",
+        "^[\w.-]*?\.kuaikan-cdn[\w.-]\.com$",
+        "^[\w.-]*?\.skyearth[\w.-]\.xyz$",
+        "^appcenter-filemanagement-[\w.-]*?\.cloudapp\.net$",
+        "^assets[\w.-]*?\.freshdesk\.com$",
+        "^blog-imgs-[\w.-][\w.-]\.2nt\.com$",
+        "^blog-imgs-[\w.-][\w.-]\.fc2\.com$",
+        "^browser-intake-[\w.-]*?-datadoghq\.com$",
+        "^cdn-msp[\w.-]\.18comic\.org$",
+        "^cdn-msp[\w.-]\.18comic\.vip$",
+        "^cdn-msp[\w.-]\.jmcomic-zzz\.one$",
+        "^cdn-msp[\w.-]\.jmcomic\.me$",
+        "^cdn[\w.-]-dl\.pornhost\.com$",
+        "^cdn[\w.-]\.18girlssex\.com$",
+        "^cdn[\w.-]\.mikuclub\.fun$",
+        "^cdns\.[\w.-]*?\.gigya\.com$",
+        "^chunk-[\w.-]*?\.mux\.com$",
+        "^file[\w.-]\.mikuclub\.fun$",
+        "^i[\w.-]\.nhentai\.net$",
+        "^image[\w.-]*?\.cloudokyo\.cloud$",
+        "^img-[\w.-]*?\.now\.com$",
+        "^img[\w.-][\w.-]\.porngo\.com$",
+        "^img[\w.-]\.porngo\.com$",
+        "^media[\w.-][\w.-]\.kissjav\.com$",
+        "^media[\w.-]\.kissjav\.com$",
+        "^object-storage-[\w.-]*?\.vexxhost\.net$",
+        "^ocsp\.[\w.-]*?\.amazontrust\.com$",
+        "^proxy-[\w.-]*?\.dailymotion\.com$",
+        "^rr[\w.-]---[\w.-][\w.-]\.ouo\.si$",
+        "^s3-[\w.-]*?\.figma\.com$",
+        "^s3\.[\w.-]*?\.wasabisys\.com$",
+        "^s[\w.-]*?\.hanime1$",
+        "^s[\w.-][\w.-][\w.-]\.pornone\.com$",
+        "^s[\w.-][\w.-]\.maxstream\.org$",
+        "^s[\w.-]\.maxstream\.org$",
+        "^sdk\.[\w.-]*?\.braze\.eu$",
+        "^static[\w.-][\w.-]\.tgstat\.ru$",
+        "^static[\w.-]\.tgstat\.ru$",
+        "^t[\w.-]\.nhentai\.net$",
+        "^th-[\w.-]*?\.pornone\.com$",
+        "^uploads-[\w.-]*?\.insided\.com$",
+        "^v\.rn[\w.-][\w.-][\w.-]\.xyz$",
+        "^video-thumbnail2\.fc2\.com$",
+        "^video-thumbnail[\w.-]\.liaoningmovie\.net$",
+        "^video[\w.-]*?\.cloudokyo\.cloud$",
+        "^video[\w.-]-thumbnail[\w.-]\.fc2\.com$",
+        "^video[\w.-]-thumbnail[\w.-]\.liaoningmovie\.net$",
+        "^vip-videoprem[\w.-]*?-thumbnail[\w.-]\.fc2\.com$"
+      ]
+    }
+  ],
+  "version": 2
+}
