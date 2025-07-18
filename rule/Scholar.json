@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "scholar.google.com"
-      ]
-    },
-    {
       "domain_suffix": [
         "acm.org",
         "acs.org",
