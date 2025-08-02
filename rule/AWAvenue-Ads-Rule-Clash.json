@@ -7,13 +7,6 @@
         "1500026601.vodplayer.wxamedia.com",
         "8le8le.com",
         "8rn1y79f02-1.algolianet.com",
-        "[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com",
-        "[a-zA-Z0-9.-]*-ad.sm.cn",
-        "[a-zA-Z0-9.-]*-ad.video.yximgs.com",
-        "[a-zA-Z0-9.-]*-ad.wtzw.com",
-        "[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com",
-        "[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com",
-        "[a-zA-Z0-9.-]*-normal.zijieapi.com",
         "a0.app.xiaomi.com",
         "aaid.umeng.com",
         "abtest-ch.snssdk.com",
@@ -850,17 +843,17 @@
     },
     {
       "domain_suffix": [
-        "*.1rtb.com",
-        "*.a.market.xiaomi.com",
-        "*.ad.gameley.com",
-        "*.adintl.cn",
-        "*.adx.adwangmai.com",
-        "*.data.hicloud.com",
-        "*.log.aliyuncs.com",
-        "*.ubixioe.com",
-        "*.vlion.cn",
-        "*.yfanads.com",
-        "*.zhangyuyidong.cn"
+        "1rtb.com",
+        "a.market.xiaomi.com",
+        "ad.gameley.com",
+        "adintl.cn",
+        "adx.adwangmai.com",
+        "data.hicloud.com",
+        "log.aliyuncs.com",
+        "ubixioe.com",
+        "vlion.cn",
+        "yfanads.com",
+        "zhangyuyidong.cn"
       ]
     }
   ],
