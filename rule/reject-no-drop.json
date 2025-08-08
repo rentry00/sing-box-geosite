@@ -14,15 +14,6 @@
       ]
     },
     {
-      "domain_regex": [
-        "^dyp2p-[\w.-]*?\.douyucdn\.cn$",
-        "^p2p-[\w.-]*?\.douyucdn\.cn$",
-        "^p2p[\w.-]*?-ws\.douyucdn\.cn$",
-        "^p2pchunk-[\w.-]*?\.douyucdn\.cn$",
-        "^p2plive-[\w.-]*?\.douyucdn\.cn$"
-      ]
-    },
-    {
       "domain_suffix": [
         "cdnnodedns.cn",
         "kuiniuca.com",
