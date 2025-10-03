@@ -2,8 +2,10 @@
   "rules": [
     {
       "domain": [
+        "cdn.lilyemby.com",
         "client.amplifi.com",
-        "ip.bjango.com"
+        "ip.bjango.com",
+        "tx.lilyemby.com"
       ]
     },
     {
@@ -139,6 +141,7 @@
         "jianshu.io",
         "jianshuapi.com",
         "jiathis.com",
+        "jiedaibao.gs",
         "jomodns.com",
         "jsboxbbs.com",
         "knewone.com",
