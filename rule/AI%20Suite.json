@@ -29,7 +29,6 @@
     {
       "domain_suffix": [
         "ai.com",
-        "aisandbox-pa.googleapis.com",
         "aistudio.google.com",
         "anthropic.com",
         "apis.google.com",
@@ -69,7 +68,6 @@
         "perplexity.ai",
         "poe.com",
         "proactivebackend-pa.googleapis.com",
-        "robinfrontend-pa.googleapis.com",
         "sora.com",
         "windsurf.com",
         "x.ai",
