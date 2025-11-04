@@ -3,6 +3,7 @@
     {
       "domain": [
         "aod.itunes.apple.com",
+        "api.smoot.apple.cn",
         "appldnld.apple.com",
         "apptrailers.itunes.apple.com",
         "cm.steampowered.com",
@@ -34,6 +35,7 @@
         "swcdn.apple.com",
         "tesla-cdn.thron.cn",
         "tesla-cdn.thron.com",
+        "updates-http.cdn-apple.com",
         "uplaypc-s-ubisoft.cdn.ubi.com",
         "wmsjsteam.com"
       ]
@@ -63,6 +65,7 @@
         "icetorrent.org",
         "jpopsuki.eu",
         "keepfrds.com",
+        "ls.apple.com",
         "m-team.cc",
         "madsrevolution.net",
         "msftconnecttest.com",
