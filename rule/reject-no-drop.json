@@ -6,7 +6,9 @@
         "livewebbs2pcdn.msstatic.com",
         "qn-cdnfile1pcdn.msstatic.com",
         "stun.douyucdn.cn",
-        "stun1.douyucdn.cn"
+        "stun1.douyucdn.cn",
+        "upos-sz-302kodo.bilivideo.com",
+        "upos-sz-302ppio.bilivideo.com"
       ]
     },
     {
@@ -17,7 +19,9 @@
     },
     {
       "domain_suffix": [
+        "bsccdn.net",
         "cdnnodedns.cn",
+        "gjfzpt.cn",
         "ietheivaicai.com",
         "kuiniuca.com",
         "mcdn.bilivideo.cn",
