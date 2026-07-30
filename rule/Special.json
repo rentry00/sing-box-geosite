@@ -6,6 +6,7 @@
         "appldnld.apple.com",
         "apptrailers.itunes.apple.com",
         "cm.steampowered.com",
+        "contentdelivery.itunes.apple.com",
         "csgo.wmsj.cn",
         "dl.steam.clngaa.com",
         "dl.steam.ksyna.com",
@@ -49,6 +50,7 @@
     {
       "domain_suffix": [
         "app-measurement.com",
+        "appstoreconnect.apple.com",
         "audiences.me",
         "auth.com",
         "awesome-hd.me",
@@ -63,6 +65,7 @@
         "hdchina.org",
         "hdsky.me",
         "icetorrent.org",
+        "itunesconnect.apple.com",
         "jpopsuki.eu",
         "keepfrds.com",
         "m-team.cc",
