@@ -1,10 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "pbs.org"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
