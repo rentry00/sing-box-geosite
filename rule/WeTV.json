@@ -1,4 +1,11 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "wetv.vip",
+        "wetvinfo.com"
+      ]
+    }
+  ],
   "version": 2
 }
