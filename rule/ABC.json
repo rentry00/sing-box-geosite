@@ -1,4 +1,11 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "edgedatg.com",
+        "go.com"
+      ]
+    }
+  ],
   "version": 2
 }
