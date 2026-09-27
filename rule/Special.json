@@ -3,6 +3,7 @@
     {
       "domain": [
         "aod.itunes.apple.com",
+        "api.smoot.apple.cn",
         "appldnld.apple.com",
         "apptrailers.itunes.apple.com",
         "cm.steampowered.com",
@@ -41,13 +42,6 @@
       ]
     },
     {
-      "domain_keyword": [
-        "announce",
-        "epicgames",
-        "torrent"
-      ]
-    },
-    {
       "domain_suffix": [
         "app-measurement.com",
         "appstoreconnect.apple.com",
@@ -68,6 +62,7 @@
         "itunesconnect.apple.com",
         "jpopsuki.eu",
         "keepfrds.com",
+        "ls.apple.com",
         "m-team.cc",
         "madsrevolution.net",
         "msftconnecttest.com",
@@ -79,7 +74,6 @@
         "privatehd.to",
         "redacted.ch",
         "sandai.net",
-        "smtp",
         "solarcity.com",
         "springsunday.net",
         "steamchina.com",
@@ -95,6 +89,11 @@
         "totheglory.im",
         "ts.la",
         "xunlei.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "100.64.0.0/10"
       ]
     }
   ],
