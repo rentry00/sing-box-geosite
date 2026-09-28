@@ -1,9 +1,8 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "nowtv100",
-        "rthklive"
+      "domain": [
+        "rthklive2-lh.akamaihd.net"
       ]
     },
     {
