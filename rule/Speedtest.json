@@ -6,15 +6,13 @@
       ]
     },
     {
-      "domain_keyword": [
-        "speedtest"
-      ]
-    },
-    {
       "domain_suffix": [
         "fast.com",
         "ooklaserver.net",
-        "speed.cloudflare.com"
+        "speed.cloudflare.com",
+        "speedtest.co",
+        "speedtest.net",
+        "speedtestcustom.com"
       ]
     }
   ],

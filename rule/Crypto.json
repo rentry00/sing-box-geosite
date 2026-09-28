@@ -2,16 +2,7 @@
   "rules": [
     {
       "domain": [
-        "min-api.cryptocompare.com",
         "token-api.metaswap.codefi.network"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "binance",
-        "huobi",
-        "metamask",
-        "okx"
       ]
     },
     {
@@ -129,11 +120,8 @@
         "defipulse.com",
         "defirate.com",
         "devcon.org",
-        "developers.eos.io",
         "dextools.io",
         "digiconomist.net",
-        "discuss.ipfs.io",
-        "docs.ipfs.io",
         "docs.lotu.sh",
         "dogecoin.com",
         "dovemetrics.com",
@@ -201,6 +189,7 @@
         "mdex.com",
         "mdex.me",
         "mdex.one",
+        "metamask.io",
         "mexc.com",
         "myetherwallet.com",
         "nansen.ai",
