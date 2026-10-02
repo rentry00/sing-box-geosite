@@ -2,11 +2,14 @@
   "rules": [
     {
       "domain_suffix": [
+        "dis.gd",
         "discord.com",
         "discord.gg",
+        "discord.gift",
         "discord.media",
         "discordapp.com",
         "discordapp.net",
+        "discordsays.com",
         "discordstatus.com"
       ]
     }
